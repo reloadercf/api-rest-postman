@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "pollo",
+      "price": "200",
+      "image": "algo",
+      "type": "desayuno",
+      "dateEntry": "6/06/2022"
+    },
+    {
+      "name": "Sandwitch",
+      "price": "30",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Quesadilla_2.jpg/440px-Quesadilla_2.jpg",
+      "type": "comida",
+      "dateEntry": "7/06/2022",
+      "id": 2
+    },
+    {
+      "name": "ANNa",
+      "price": "30",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Quesadilla_2.jpg/440px-Quesadilla_2.jpg",
+      "type": "comida",
+      "dateEntry": "7/06/2022",
+      "options": [
+        "jojo",
+        "jeje",
+        "jiji",
+        {
+          "risa": "juju"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
